@@ -7,7 +7,7 @@ Repositório para desenvolvimento do software GWI News, para o cumprimento do Pr
 ### Tarefas de Melhoria
 
 #### 1. Atualização dos Componentes Visuais (3 pontos)
-**Descrição:** Atualizar os estilos dos botões em toda a aplicação para utilizar o framework Bootstrap, garantindo uma aparência mais moderna e consistente.
+**Descrição:** Atualizar os estilos dos botões em toda a aplicação para utilizar o framework Bootstrap, garantindo uma aparência mais moderna e consistente
 
 **Exemplo de Código:**
 ```jsx

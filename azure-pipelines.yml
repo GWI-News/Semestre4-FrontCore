@@ -20,5 +20,5 @@ steps:
     firebase deploy --token $(FIREBASE_TOKEN)
   displayName: 'firebase token inclusion'
 
-env:
-  FIREBASE_TOKEN: $(FIREBASE_TOKEN)
+  env:
+    FIREBASE_TOKEN: $(FIREBASE_TOKEN)
